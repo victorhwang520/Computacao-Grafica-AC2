@@ -1,6 +1,7 @@
 # Computacao-Grafica-AC2
 
-EX1  Translação — P(2,3) + (4,−2) -> P' = (6, 1).
+EX1 <br>
+Translação — P(2,3) + (4,−2) -> P' = (6, 1).
 Alteram-se x e y (x+4, y−2).
 ![image alt](https://github.com/victorhwang520/Computacao-Grafica-AC2/blob/5a8a98769efb26809f2604684042bcb8255da755/fotos/EX1.png)
 
