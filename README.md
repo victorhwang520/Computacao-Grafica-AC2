@@ -45,5 +45,6 @@ P' = (−2, 8).
 
 EX10 <br>
 Retângulo A(1,1), B(5,1), C(5,3), D(1,3):
-translação (−2,+3) -> escala [1,5; 0,5] -> reflexão no eixo y -> A'=(1,5, 2), B'=(−4,5, 2), C'=(−4,5, 3), D'=(1,5, 3). <br>
+translação (−2,+3) -> escala [1,5; 0,5] -> reflexão no eixo y -> <br>
+A'=(1,5, 2), B'=(−4,5, 2), C'=(−4,5, 3), D'=(1,5, 3). <br>
 ![image alt](https://github.com/victorhwang520/Computacao-Grafica-AC2/blob/9d28f28b75583accd448e2579f127d168077d94f/fotos/EX10.png)
